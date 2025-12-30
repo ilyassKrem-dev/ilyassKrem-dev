@@ -5,7 +5,7 @@
 
 📫 Reach me:  [Linkedin](https://www.linkedin.com/in/ilyass-kremcht-695213292/)
 
-🤔 Reach me:  [Portfolio](https://ilyass-kremcht.vercel.app/)
+🤔 Portfolio:  [Portfolio](https://ilyass-kremcht.vercel.app/)
 
 <!--
 **ilyassKrem-dev/ilyassKrem-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
